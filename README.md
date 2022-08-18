@@ -12,37 +12,25 @@ hello! here's a little about me:
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme.andyruwruw.com/api/top-played">
-</p>
+</p> -->
  
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
+  <i>inspired by <a href="https://github.com/andyruwruw">andyruwruw</a></i>
 </p>
 
 <p></p>
-
-<h1>
-  i was a frontend intern at chess.com ♟️
-</h1>
-
-<p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://readme.andyruwruw.com/api/chess-games">
-  </a>
-</p>
 
 <p align="center">
   <i>luckily being good at chess wasn't a pre-req to the job</i>
 </p>
 
-<p></p>
+<br>
+<br>
+<br>
 
 <h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+  i'm a mobile and money fanboy ( $ _ $ )
 </h1>
-
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/skills">
-</p>
